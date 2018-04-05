@@ -716,7 +716,7 @@ looks like for the above code example:
     8├──────────────────┤ ├> B specific data
      │ value of b       │ │
    12├──────────────────┤─┘
-     │ wasted space     │
+     │ padding (wasted) │
    16├══════════════════┤
      │ value of a       │>   A specific data
    44└──────────────────┘
